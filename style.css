@@ -43,7 +43,7 @@ table,th,td{
     width: 750px;
     text-align: center;
     margin-left: 70px;
-    margin-right: 90px;
+    
 }
 div{
     text-align: center;
@@ -62,7 +62,7 @@ ol ul  li{
 }
 .table{
     margin-left: 140px;
-    margin-right: 90px;
+
 }
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
